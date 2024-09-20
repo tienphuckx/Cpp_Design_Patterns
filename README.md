@@ -1,13 +1,13 @@
-# Cpp_Design_Patterns
+# Design Patterns in C++ by tienphuckx
     Demonstrating some important design patterns with C++
 
-# normal way
-    - base.cpp
+# Normal way
+    base.cpp
 
-# adapter design pattern
-    - adapter.cpp
+# Adapter design pattern
+    adapter.cpp
 
-# builder design pattern
-    - builder.cpp
+# Builder design pattern
+    builder.cpp
 
 # ...
